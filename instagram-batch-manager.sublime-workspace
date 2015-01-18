@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border-right-style"
+			],
+			[
+				"bord",
+				"border-right-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fa",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"oppo",
+				"opponentName"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"moves",
+				"moves"
+			],
+			[
+				"bla",
+				"blackName"
+			],
+			[
+				"get",
+				"getMyColor"
+			],
+			[
+				"my",
+				"myPhoneNumber"
+			],
+			[
+				"high",
+				"highlightSquares"
+			],
+			[
+				"load",
+				"loadgameID"
+			],
+			[
+				"hi",
+				"highestMoveNumber"
+			],
+			[
+				"current",
+				"currentGameID"
+			],
+			[
+				"hid",
+				"hideAllButtons"
+			],
+			[
+				"curr",
+				"currentGameID"
+			],
+			[
+				"highes",
+				"highestMoveNumber"
+			],
+			[
+				"cu",
+				"currentGameID"
+			],
+			[
+				"upd",
+				"updateStatus"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"moveNu",
+				"moveNum"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"create",
+				"createNewGame"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"slid",
+				"slideUp	.slideUp()"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"border-w",
+				"border-bottom-width"
+			],
+			[
+				"border-b",
+				"border-bottom-width"
+			],
+			[
+				"n",
+				"none"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 4771,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/www/index.html",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app/www",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app/www/js",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app/www/scss",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/server"
+	],
+	"file_history":
+	[
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/server/instaBatchCaptions.php",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/server/instaBatchPhotos.php",
+		"/Users/adrianhanft/Desktop/test-save-image.js",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app/www/index.html",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app/www/scss/_settings.scss",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/app/www/js/app.js",
+		"/Users/adrianhanft/Dropbox/github/Instagram-Batch-Manager/README.md",
+		"/Users/adrianhanft/Library/Caches/Cleanup At Startup/Transmit/CB13F606-2CF2-4276-864C-F9B3392BF44C/instaPush.php",
+		"/Users/adrianhanft/Library/Caches/Cleanup At Startup/Transmit/AD15F8DC-A25E-414D-9B54-978FF0DB468A/instaPushTweets.php",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/instapush/www/templates/tab-dash.html",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/instapush/www/js/adrian.js",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/instapush/platforms/ios/www/index.html",
+		"/Users/adrianhanft/Transporter/apps/archive/instagrunge 1.1/www/scripts/FBConnect.js",
+		"/Users/adrianhanft/Desktop/zombies/chapter2-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/_nav.kit",
+		"/Users/adrianhanft/Desktop/zombies/comingSoon-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/_foot.kit",
+		"/Users/adrianhanft/Desktop/zombies/css/zombies.css",
+		"/Users/adrianhanft/Desktop/zombies/js/app.js",
+		"/Users/adrianhanft/Desktop/zombies/chapter1.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter0.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter0.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter10.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter10.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter11.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter11.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter12.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter12.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter13.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter13.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter14.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter14.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter15.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter15.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter16.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter16.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter17.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter17.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter18.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter18.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter19.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter19.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter2.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter2.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter20.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter20.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter21.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter21.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter22.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter22.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter23.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter23.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter24.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter24.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter25.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter25.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter3.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter3.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter4.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter4.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter5.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter5.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter6.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter6.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter7.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter7.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter8.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter8.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter9.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter9.kit",
+		"/Users/adrianhanft/Desktop/zombies/index.html",
+		"/Users/adrianhanft/Desktop/zombies/index.kit",
+		"/Users/adrianhanft/Desktop/zombies/_head.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter10-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter11-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter12-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter13-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter14-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter15-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter16-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter17-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter18-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter19-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter20-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter21-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter22-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter23-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter24-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter25-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter3-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter4-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter5-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter6-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter7-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter8-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter9-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter0-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/scss/_settings.scss",
+		"/Users/adrianhanft/Desktop/zombies/chapter1.html",
+		"/Users/adrianhanft/Desktop/zombies/chapter1-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter0-markdown.kit",
+		"/Users/adrianhanft/Desktop/zombies/chapter1-markdown.kit",
+		"/Users/adrianhanft/Desktop/zombies/css/chapter0-markdown.md",
+		"/Users/adrianhanft/Desktop/zombies/chapter1.md",
+		"/Users/adrianhanft/Desktop/zombies/_footer.kit",
+		"/Users/adrianhanft/Desktop/zombies/_chapter1.md",
+		"/Users/adrianhanft/Desktop/zombies/index3.md",
+		"/Users/adrianhanft/Dropbox/github/adrian3.github.com/index.html",
+		"/Users/adrianhanft/Dropbox/github/adrian3.github.com/adrian3.com.sublime-project",
+		"/Users/adrianhanft/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/js/junk.js",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/js/app.js",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/process/www-old/index.html",
+		"/Volumes/GARMIN/GARMIN/ACTIVITY/4A570903.FIT",
+		"/Users/adrianhanft/Transporter/apps/puzzles-1.9/www/index.html",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/www-duplicate/js/tests/tests.js",
+		"/Users/adrianhanft/Desktop/Saint Francis Prayer.txt",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/www-duplicate/js/app.js",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/www-duplicate/index.html",
+		"/Users/adrianhanft/Desktop/index.php",
+		"/Users/adrianhanft/Dropbox/Training-Peaks/Files for Home/www-duplicate/js/tests/index.html",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/img/list.svg",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/js/tests.js",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/js/defaults.js",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/js/chessboard-0.3.0.min.js",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/js/jqt.menusheet.min.js",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/css/styles.css",
+		"/Users/adrianhanft/Transporter/apps/chessmsg/www/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fileName",
+			"tweet",
+			"<div class=\"row\">",
+			"\"comingSoon-markdown.kit",
+			"@import \"chapter",
+			"</li>.html",
+			"getname",
+			"getopponent",
+			"replay",
+			"createnewgame",
+			"lista",
+			"listPastOpponents",
+			"generateIcon",
+			"toolbarDisplay",
+			"friendly",
+			"generateIcon",
+			"toolbar-back",
+			"createnewga",
+			"createnew",
+			"blackNumber",
+			".photo",
+			"saveOpponentInfo",
+			"selectColor",
+			"saveOpponentInfo()",
+			"manual",
+			"currentLoadedContact",
+			"anonymous.png",
+			"manual",
+			"getopponent",
+			"listall",
+			"replayContact",
+			"no oppon",
+			"selectedContact",
+			"listallga",
+			"active",
+			"listall",
+			"gameover",
+			"losingcolor",
+			"gameover",
+			"result",
+			"\"result\": \"\"",
+			"gameover",
+			"winner",
+			"\"winner\": \"\",",
+			"winner",
+			"myColor",
+			"winner",
+			"listAllGames",
+			"circle-right",
+			"accept",
+			"updateMyPhoneNumber",
+			"accept",
+			"newGame",
+			"myph",
+			"newGame",
+			"selectOpponent",
+			"PromotedPiecesBecome",
+			"promote",
+			"promopiecesare",
+			"help",
+			"list",
+			"id=\"list",
+			"list",
+			"home",
+			"localStorage.setItem(",
+			"validPhoneNumber",
+			"manualContact",
+			"photos",
+			"manualContactEntry",
+			"getCurrentOpponentNumber",
+			"process",
+			"currentLoadedContact",
+			"process",
+			"multipleNumbers",
+			"selectColorButton",
+			"setCurrentOpponentNumber",
+			"opponentname",
+			"addOpponentToList",
+			"replayContact",
+			"processc",
+			"replayContact",
+			"manualContactEntry",
+			"addOpponentToList",
+			"!==null",
+			"!=null",
+			"!==null",
+			"addOpponentToList",
+			"gameidl",
+			"Unknown",
+			".click",
+			"gameList",
+			"list",
+			"sendSMS",
+			"resend",
+			"jqt.goto",
+			"jqt.goTo",
+			"createNewGame",
+			"sms",
+			"loadgameid",
+			"createga",
+			"loadpos",
+			"boardLockControl",
+			"loadposition",
+			"boardLockControl",
+			"freeze",
+			"loadPosition",
+			"loadgame",
+			"boardLockControl",
+			"getMoveData",
+			"gameidlist",
+			"getCurrentFen",
+			"sms",
+			"getGameIDList",
+			"highlights",
+			"highlightSquares",
+			"function loadpos",
+			"loadgame",
+			"loadPosition",
+			"\"pos\":",
+			"create",
+			"thisMove",
+			"preps",
+			"loadPosition",
+			"prepsms",
+			"getCurrentFen",
+			"prepsms",
+			"prepSMS",
+			"getCurrentFen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"caption",
+			"<div class=\"row content\">",
+			"\"chapters/comingSoon-markdown.kit",
+			"@import \"chapters/chapter",
+			"</li>",
+			"\"result\": \"active\"",
+			"arr =",
+			"currentGameID",
+			"gameID",
+			"'currentGameID'",
+			"currentFen",
+			"currentPositionFEN",
+			"currentPosition",
+			"home-logo",
+			"$('.home-logo",
+			"home-logo",
+			"$('.home-logo .glyphicon",
+			"$('.home-logo'",
+			"",
+			" ",
+			"<img src=\"/TrainingPeaks/media/Images/UI/checkmark.png\" />",
+			" ",
+			"pull-right",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1981,
+								1981
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 749.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1849,
+								1849
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "instagram-batch-manager.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

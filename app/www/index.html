@@ -1,0 +1,72 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <title>Instagram Batch Manager</title>
+    <link rel="stylesheet" href="css/app.css" />
+
+    <style type="text/css">
+    #list img {
+    }
+    .caption {
+      text-align: left;
+      margin-bottom: 50px;
+    }
+    .space {
+      width: 100%;
+      float: left;
+      min-height: 0px;
+    }
+    .unshared h1, .uploaded h1, .failed h1 {
+     position: absolute; 
+     font-size: 12px;
+     color: #ffffff;
+     top: 0px; 
+     left: 20px; 
+     width: 100%; 
+    }
+    .button a {
+      color: #fff;
+    }
+    .button {
+      border-right-color: #333;
+      border-right-width: 1px;
+      border-right-style: solid;
+      border-bottom-color: #333;
+      border-bottom-width: 1px;
+      border-bottom-style: solid;
+      margin-bottom: 0;
+    }
+
+  .spacer {
+    float: left;
+    width: 100%;
+    margin: 20px;
+  }
+    </style>
+
+    <script src="bower_components/modernizr/modernizr.js"></script>
+  </head>
+  <body>
+    <div>
+          <div class="button small-12 medium-3 large-3 columns"><a href="#" onclick="getDropboxInfo('folder-name-1');">Folder 1</a></div>
+          <div class="button small-12 medium-3 large-3 columns"><a href="#" onclick="getDropboxInfo('folder-name-2');">Folder 2</a></div>
+          <div class="button small-12 medium-3 large-3 columns"><a href="#" onclick="getDropboxInfo('folder-name-3');">Folder 3</a></div>
+          <div class="button small-12 medium-3 large-3 columns"><a href="#" onclick="getDropboxInfo('folder-name-4');">Folder 4</a></div>
+    </div>
+
+    <div class="row spacer"><a href="#" onclick="hideShared();">Hide Shared</a> &nbsp;&nbsp;&nbsp;<a href="#" onclick="showShared();">Show All</a></div>
+
+    <div id="list"></div>
+
+    <div class="row spacer"><a class="button" href="#" onclick="localStorage.clear();">Reset</a></div>
+
+    <canvas id="insta" width="250" height="250" style="display:none;"></canvas>
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/foundation/js/foundation.min.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

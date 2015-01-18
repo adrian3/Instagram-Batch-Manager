@@ -1,0 +1,26 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Instagram\"><param name=\"ios-package\" value=\"CDVInstagramPlugin\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.vladstirbu.cordova.instagram": {
+            "PACKAGE_NAME": "com.your_reverse_domain.instabatch"
+        }
+    },
+    "dependent_plugins": {}
+}
